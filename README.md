@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @steven86146
-- I’m interested in Linux.
+- I’m interested in GNU/Linux.
 - I'm currently working on Disocrd Bots.
 
 <!---
